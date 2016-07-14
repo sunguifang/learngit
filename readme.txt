@@ -1,6 +1,6 @@
-:wq
+wq
 cat readme.txt
-
+file is changed!
 
 
 
