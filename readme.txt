@@ -1,6 +1,9 @@
-Git is a distributed  version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git can use your name and email!
-git duixiang`:wq
+:wq
+cat readme.txt
 
+
+
+
+
+vi readme.txt
+EOF
