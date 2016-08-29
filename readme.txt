@@ -6,7 +6,7 @@ file is changed!
 
 
 vi readme.txt
-EOi有很多事不得不做
+有很多事不得不做
 3dd
 a
 :wq
@@ -15,6 +15,9 @@ a
 java编程
 javax.swing.JOption
 ling 
-d:$
+:$
 dd
+do not know what
+the dev branch 
+git stash
 
